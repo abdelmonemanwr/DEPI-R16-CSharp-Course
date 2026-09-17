@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingUnboxingAndNullabilit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.PI", "OOP.PI\OOP.PI.csproj", "{C74C7BCF-4991-488D-9460-B1BBCE019070}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.PII", "OOP.PII\OOP.PII.csproj", "{ECC0E8E1-57A5-412A-AE77-89533E7896DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C74C7BCF-4991-488D-9460-B1BBCE019070}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C74C7BCF-4991-488D-9460-B1BBCE019070}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C74C7BCF-4991-488D-9460-B1BBCE019070}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECC0E8E1-57A5-412A-AE77-89533E7896DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC0E8E1-57A5-412A-AE77-89533E7896DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC0E8E1-57A5-412A-AE77-89533E7896DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC0E8E1-57A5-412A-AE77-89533E7896DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
