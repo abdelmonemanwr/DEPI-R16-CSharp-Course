@@ -1,0 +1,21 @@
+Medical System
+
+   Patient = FName, LName, Phone, Email, Address, Id, CreatedAt, UpdateAt, ....
+   Doctor  = FName, LName, Phone, Email, Address, Id, CreatedAt, UpdateAt, ....
+   Nurse   = FName, LName, Phone, Email, Address, Id, CreatedAt, UpdateAt, ....
+
+   User    = FName, LName, Phone, Email, Address, Id, CreatedAt, UpdateAt
+   Patient : User =  ....
+   Doctor  : User =  ....
+   Nurse   : User = ....
+
+
+>> Abstract (Base Class)
+
+
+>> Sealed
+  Employee  >> mark as Abstract
+  FullTimeEmployee
+  PartTimeEmployee
+  Manager
+  CEO      >> mark as Sealed
