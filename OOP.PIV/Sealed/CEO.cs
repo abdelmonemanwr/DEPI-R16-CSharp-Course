@@ -3,7 +3,7 @@
 namespace OOP.PIV.Sealed
 {
     //sealed class CEO : IPlayer, Manager // multilevel inheritance   // order is important
-    sealed class CEO : Manager, IPlayer // multilevel inheritance 
+    internal sealed class CEO : Manager, IPlayer // multilevel inheritance
     {
         public void Play()
         {
