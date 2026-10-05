@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP.PIV", "OOP.PIV\OOP.PIV.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{F26A4046-A34E-4CDB-998C-D213A2C86271}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates.PI", "Delegates.PI\Delegates.PI.csproj", "{83895EED-41AF-4C2C-AD6A-DBAC35600B5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{F26A4046-A34E-4CDB-998C-D213A2C86271}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F26A4046-A34E-4CDB-998C-D213A2C86271}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F26A4046-A34E-4CDB-998C-D213A2C86271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83895EED-41AF-4C2C-AD6A-DBAC35600B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83895EED-41AF-4C2C-AD6A-DBAC35600B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83895EED-41AF-4C2C-AD6A-DBAC35600B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83895EED-41AF-4C2C-AD6A-DBAC35600B5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
